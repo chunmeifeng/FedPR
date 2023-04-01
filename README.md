@@ -77,3 +77,16 @@ python train.py
 The specific configuration is in file 'config/different_dataset.py'.
 
 
+
+## Citation
+
+```
+@article{xu2023learning,
+  title={Learning Federated Visual Prompt in Null Space for MRI Reconstruction},
+  author={Feng, Chun-Mei and Li, Bangjun and Xu, Xinxing and Liu, Yong and Fu, Huazhu and Zuo, Wangmeng},
+  journal={arXiv preprint arXiv:2303.16181},
+  year={2023}
+}
+```
+
+
