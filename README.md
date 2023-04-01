@@ -80,11 +80,11 @@ The specific configuration is in file 'config/different_dataset.py'.
 
 ## Citation
 
-```
-@article{xu2023learning,
-  title={Learning Federated Visual Prompt in Null Space for MRI Reconstruction},
+```  
+  @misc{feng2023learning,
+  title={Learning Federated Visual Prompt in Null Space for MRI Reconstruction},       
   author={Feng, Chun-Mei and Li, Bangjun and Xu, Xinxing and Liu, Yong and Fu, Huazhu and Zuo, Wangmeng},
-  journal={arXiv preprint arXiv:2303.16181},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2023}
 }
 ```
